@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FacebookAPIAndroid</string>
+    <string name="facebook_app_id">[your-id-number-here]</string>
+</resources>
