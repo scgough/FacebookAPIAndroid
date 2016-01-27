@@ -11,7 +11,7 @@ React-Native Facebook Login (via LoginManager) &amp; Graph API Modules - for And
 * logout
 * getCurrentToken
 
-#Usage
+###Usage
 
 ```
 ...
@@ -42,7 +42,7 @@ var FacebookAPIAndroid = React.createClass({
 
 * search
 
-#Usage
+###Usage
 (When you have logged in)
 ```
 ...
